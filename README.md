@@ -11,7 +11,7 @@ C++, Node.js ve JavaScript üzerinde çalışan bir geliştiriciyim.
 
 ## İletişim
 - 📫 E-posta: arilensofficial@hotmail.com
-- 💬 Discord: arilens0866
+- 💬 Discord: arilensofficial
 
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ArilensOfficial&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical)

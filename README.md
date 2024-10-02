@@ -1,5 +1,5 @@
 # Merhaba, ben Arilens! 👋
-C++, Node.js ve JavaScript üzerinde çalışan bir geliştiriciyim. Teknoloji ve programlama konularında tutkuluyum.
+C++, Node.js ve JavaScript üzerinde çalışan bir geliştiriciyim.
 
 ## Hakkımda
 - 💻 Programlama dillerim: C++, Node.js, JavaScript

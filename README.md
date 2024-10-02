@@ -8,6 +8,7 @@ C++, Node.js ve JavaScript üzerinde çalışan bir geliştiriciyim.
 ## Projeler
 - **ArilensPremiumMakerBot:** Discord botu olarak tasarlanmış bir proje. [Detaylar](https://github.com/ArilensOfficial/ArilensPremiumMakerBot)
 - **DmDuyuruBotSlashDestekli:** Slash komutları ile desteklenen bir DM duyuru botu. [Detaylar](https://github.com/ArilensOfficial/DmDuyuruBotSlashDestekli)
+- **Basit-Python-Temel-Altyapi:** Temel Python bot altyapısını içeren bir proje. [Detaylar](https://github.com/ArilensOfficial/Basit-Python-Temel-Altyapi)
 
 ## İletişim
 - 💬 Discord: arilensofficial

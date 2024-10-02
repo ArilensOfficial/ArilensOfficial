@@ -1,17 +1,16 @@
 # Merhaba, ben Arilens! 👋
-C++, Node.js ve JavaScript üzerinde çalışan bir geliştiriciyim.
+C++, Node.js ve JavaScript üzerinde çalışan bir geliştiriciyim. Teknoloji ve programlama konularında tutkuluyum.
 
 ## Hakkımda
 - 💻 Programlama dillerim: C++, Node.js, JavaScript
-- 🌱 Şu anda öğreniyorum: Python ve veri analizi
-- 🔭 Yakın zamanda üzerinde çalıştığım proje: [ArilensPremiumMakerBot](https://github.com/ArilensOfficial/ArilensPremiumMakerBot)
+- 🌱 Python ve veri analizi üzerinde çalışıyorum.
 
 ## Projeler
 - **ArilensPremiumMakerBot:** Discord botu olarak tasarlanmış bir proje. [Detaylar](https://github.com/ArilensOfficial/ArilensPremiumMakerBot)
+- **DmDuyuruBotSlashDestekli:** Slash komutları ile desteklenen bir DM duyuru botu. [Detaylar](https://github.com/ArilensOfficial/DmDuyuruBotSlashDestekli)
 
 ## İletişim
-- 📫 E-posta: arilensofficial@hotmail.com
-- 💬 Discord: arilensofficial
+- 💬 Discord: arilens0866
 
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ArilensOfficial&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical)

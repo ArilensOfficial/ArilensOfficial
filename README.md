@@ -14,5 +14,4 @@ C++, Node.js ve JavaScript üzerinde çalışan bir geliştiriciyim.
 - 💬 Discord: arilensofficial
 
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ArilensOfficial&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Python İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical&card_width=300&langs_count=5&langs=python)
-![JavaScript İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical&card_width=300&langs_count=5&langs=javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical&card_width=300&langs_count=5&langs=python,javascript)

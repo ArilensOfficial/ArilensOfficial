@@ -20,6 +20,7 @@ C++, Node.js, Python, JavaScript ve HTML üzerinde çalışan bir geliştiriciyi
 - **DmDuyuruBotSlashDestekli:** Slash komutları ile desteklenen bir DM duyuru botu. [Detaylar](https://github.com/ArilensOfficial/DmDuyuruBotSlashDestekli)
 - **Basit-Python-Temel-Altyapi:** Temel Python bot altyapısını içeren bir proje. [Detaylar](https://github.com/ArilensOfficial/Basit-Python-Temel-Altyapi)
 - **Film Öneri Botu:** Film önerileri sunan bir bot. [Detaylar](https://github.com/ArilensOfficial/-Film-neri-Botu-)
+- **Anti Knockback Bypass:** Anti knockback hilesi. [Detaylar](https://github.com/ArilensOfficial/Anti_Knockback-Bypass)
 
 ## İletişim
 - 💬 Discord: arilensofficial

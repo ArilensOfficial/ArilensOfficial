@@ -1,8 +1,8 @@
 # Merhaba, ben Arilens! 👋
-C++, Node.js, Python, JavaScript ve HTML üzerinde çalışan bir geliştiriciyim.
+C++, Node.js, Python ve JavaScript üzerinde çalışan bir geliştiriciyim.
 
 ## Hakkımda
-- 💻 Programlama dillerim: C++, Node.js, Python, JavaScript, HTML
+- 💻 Programlama dillerim: C++, Node.js, Python, JavaScript
 - 🌱 Veri analizi ve bot geliştirme üzerine çalışıyorum.
 
 ## Bildiğim Yazılım Dilleri
@@ -12,7 +12,6 @@ C++, Node.js, Python, JavaScript ve HTML üzerinde çalışan bir geliştiriciyi
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 </p>
 
 ## Projeler
@@ -26,4 +25,4 @@ C++, Node.js, Python, JavaScript ve HTML üzerinde çalışan bir geliştiriciyi
 - 💬 Discord: arilensofficial
 
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ArilensOfficial&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical&card_width=300&langs_count=5&langs=python,javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical&card_width=300&langs_count=4&langs=python,javascript,c++)

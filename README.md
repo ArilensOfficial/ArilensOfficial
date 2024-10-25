@@ -31,4 +31,4 @@ C++, Node.js, Python ve JavaScript üzerinde çalışan bir geliştiriciyim.
 
 [![Papara Logo](https://fintechistanbul.org/wp-content/uploads/2023/08/papara_Logo_yeni.jpg)](https://ppr.ist/1s0VweSYo)
 
-*Gönlünüzden ne koparsa! 🙏(resme tıklayın otomatik atıyor sizi paparaya*
+*Gönlünüzden ne koparsa! 🙏(resme tıklayın otomatik atıyor sizi paparaya)*

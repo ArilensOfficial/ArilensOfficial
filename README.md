@@ -26,3 +26,9 @@ C++, Node.js, Python ve JavaScript üzerinde çalışan bir geliştiriciyim.
 
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ArilensOfficial&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArilensOfficial&layout=compact&theme=radical&card_width=300&langs_count=4&langs=python,javascript,c++)
+
+## Bağış Yapmak İsterseniz
+
+[![Papara Logo](https://fintechistanbul.org/wp-content/uploads/2023/08/papara_Logo_yeni.jpg)](https://ppr.ist/1s0VweSYo)
+
+*Gönlünüzden ne koparsa! 🙏(resme tıklayın otomatik atıyor sizi paparaya*

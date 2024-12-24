@@ -1,6 +1,6 @@
 # Merhaba, ben Arilens! 👋
 C++, Node.js, Python ve JavaScript üzerinde çalışan bir geliştiriciyim.
-
+ve 18 yaşındayım
 ## Hakkımda
 - 💻 Programlama dillerim: C++, Node.js, Python, JavaScript
 - 🌱 Veri analizi ve bot geliştirme üzerine çalışıyorum.

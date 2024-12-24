@@ -2,7 +2,7 @@
 C++, Node.js, Python ve JavaScript üzerinde çalışan bir geliştiriciyim.
 ve 18 yaşındayım
 ## Hakkımda
-- 💻 Programlama dillerim: C++, Node.js, Python, JavaScript
+- 💻 Programlama dillerim: C++, Node.js, Python, JavaScript, HTML , CSS
 - 🌱 Veri analizi ve bot geliştirme üzerine çalışıyorum.
 
 ## Bildiğim Yazılım Dilleri
